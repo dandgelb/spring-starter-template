@@ -1,4 +1,4 @@
-package my.local.examples.springstartertemplate;
+package my.local.examples.starter;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class SpringStarterTemplateApplicationTests {
+public class StarterApplicationTest {
 
 	@Test
 	public void contextLoads() {
